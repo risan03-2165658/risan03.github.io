@@ -1,6 +1,6 @@
 wiki.md
 # Best Studio Ghibli Movies
-![Image of some Ghibli movies]([ghbli.png](https://assets-prd.ignimgs.com/2022/07/22/princess-mononoke-1658507340192.jpg?width=3840))
+![Image of some Ghibli movies]((https://assets-prd.ignimgs.com/2022/07/22/princess-mononoke-1658507340192.jpg?width=3840))
 
 Studio Ghibli is a Japanese animation studio directed by Miyazaki Hayao, in Tokyo since 1985. Studio Ghibli movies are renowned for their unique and visually enchanting animation aesthetic. Their commitment to *intricate details, hand-drawn aesthetics*, *beautiful music* and *meticulous craftsmanship* results in a visually rich and immersive cinematic experience. In this wiki, I will be introducing **three** best movies I recommend that you check out!
 
