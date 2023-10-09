@@ -21,9 +21,9 @@ This is personally my favorite piece. It's carming animation strikes a balance b
 This movie is also amazing. It's a captivating world full of spirits and gods, but what makes it unique is that it doesn't sort characters into simple good and bad categories like many children's movies do. Instead, each character has their own reasons for what they do, and they see their actions as well-intentioned in their own way.
 
 ## References
-- [Princess Mononoke](https://www.imdb.com/title/tt0119698/)
-- [Castle in the Sky](http://www.nausicaa.net/miyazaki/laputa/synopsis/)
-- [Spirited Away](https://www.sparknotes.com/film/spiritedaway/summary/)
+1. [Princess Mononoke](https://www.imdb.com/title/tt0119698/)
+2. [Castle in the Sky](http://www.nausicaa.net/miyazaki/laputa/synopsis/)
+3. [Spirited Away](https://www.sparknotes.com/film/spiritedaway/summary/)
 
 
 ## See also
